@@ -14,5 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 💻 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibnult&show_icons=true&theme=radical)
+### 🚀 GitHub Stats
+
+![ibnult's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibnult&show_icons=true&theme=tokyonight)
+
+### 📊 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibnult&layout=compact&theme=tokyonight)
+
+### 🔥 Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ibnult&theme=tokyonight)
+
+---
+
+### 👀 Profile Views
+![Profile views](https://komarev.com/ghpvc/?username=ibnult&color=blue&style=flat)
