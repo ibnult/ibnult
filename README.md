@@ -15,13 +15,8 @@ Here are some ideas to get started:
 - ⚡ Fun fact: …
 -->
 
-## Hello World 👋
 
-### 🚀 GitHub Stats
-![ibnult's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ibnult&show_icons=true&theme=tokyonight)
 
-### 📊 Most Used Languages
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ibnult&layout=compact&theme=tokyonight)
 
 ### 🔥 Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ibnult&theme=tokyonight)
