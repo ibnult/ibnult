@@ -15,20 +15,18 @@ Here are some ideas to get started:
 - ⚡ Fun fact: …
 -->
 
-### 🚀 GitHub Stats
+## Hello World 👋
 
-![ibnult's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibnult&show_icons=true&theme=tokyonight)
+### 🚀 GitHub Stats
+![ibnult's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ibnult&show_icons=true&theme=tokyonight)
 
 ### 📊 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibnult&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ibnult&layout=compact&theme=tokyonight)
 
 ### 🔥 Contribution Streak
-
-![GitHub Streak](https://github-readme-stats.herokuapp.com/?user=ibnult&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ibnult&theme=tokyonight)
 
 ---
 
 ### 👀 Profile Views
-
 ![Profile views](https://komarev.com/ghpvc/?username=ibnult&color=blue&style=flat)
