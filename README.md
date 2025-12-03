@@ -15,6 +15,7 @@ Here are some ideas to get started:
 - ⚡ Fun fact: …
 -->
 
+![GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=ibnult\&show_icons=true\&theme=radical)
 
 
 
